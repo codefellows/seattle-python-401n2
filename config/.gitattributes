@@ -1,0 +1,7 @@
+# Normalize line endings to avoid spurious failures in the core test suite on Windows.
+*html text eol=lf
+*css text eol=lf
+*js text eol=lf# Normalize line endings to avoid spurious failures in the core test suite on Windows.
+*html text eol=lf
+*css text eol=lf
+*js text eol=lf
