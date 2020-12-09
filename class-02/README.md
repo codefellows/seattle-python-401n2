@@ -1,6 +1,6 @@
-# Modules and Tests
+# Testing
 
-Today we learn about Test Driven Development with PyTest, and deepen our understanding of Python modules.
+Today we learn about Test Driven Development with PyTest.
 
 ## Learning Objectives
 
