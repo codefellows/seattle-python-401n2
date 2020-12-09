@@ -8,9 +8,6 @@ Today we learn about Test Driven Development with PyTest, and deepen our underst
 
 #### Describe and Define
 
-- A Python module
-- Difference between module and package
-- Python namespaces
 - Test Driven Development
 - Red, Green, Refactor
 
