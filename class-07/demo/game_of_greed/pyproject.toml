@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "greed"
+name = "game_of_greed"
 version = "0.1.0"
 description = ""
 authors = ["Roger T. Huba <rogerhuba@gmail.com>"]
