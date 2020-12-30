@@ -17,8 +17,3 @@ Today you'll begin working on a command line version of the dice game `greed` us
 - Counter module
 - Implement game logic
 - Create helper classes
-
-<!-- ## Today's Outline -->
-
-<!-- To Be Completed By Instructor -->
-
