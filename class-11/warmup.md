@@ -13,8 +13,8 @@ values = {'Two':2, 'Three':3, 'Four':4, 'Five':5, 'Six':6, 'Seven':7, 'Eight':8,
 ## Feature Tasks
 
 - Use the data from above:
-  - Create a Card with a suit and "value" attribute.
-  - Create a Deck Class
+  - Create a Card class with a suit and "value" attribute.
+  - Create a Deck class
     - Instantiate all 52 cards and add them to a list
     - Shuffle the Deck
       - Consider something like:
