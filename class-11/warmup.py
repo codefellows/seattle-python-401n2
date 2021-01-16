@@ -24,7 +24,7 @@ class Deck:
 
     def __str__(self):
 
-        return f'{[value for value in self.deck if value.__str__()]}'
+        return f'{[value for value in self.deck if print(value)]}'
 
     def shuffle(self):
         # use > 1 to not shuffle a deck of 1 card
@@ -40,6 +40,8 @@ if __name__ == '__main__':
     # new_car = Card('Hearts', 'Two')
     # print(new_car)
     new_deck = Deck()
+    print(new_deck)
+    new_deck.shuffle()
     print(new_deck)
 
 
