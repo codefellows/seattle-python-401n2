@@ -8,6 +8,8 @@ authors = ["Roger Huba <rogerhuba@gmail.com>"]
 python = "^3.9"
 pandas = "^1.2.1"
 jupyterlab = "^3.0.5"
+matplotlib = "^3.3.3"
+seaborn = "^0.11.1"
 
 [tool.poetry.dev-dependencies]
 
