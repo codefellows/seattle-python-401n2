@@ -18,7 +18,6 @@ If a service exposes an API then you're good to go. But what if they haven't? Th
 
 - Use `requests` and `beautiful soup` libraries
 - Inspect a web pages content to determine an effective scraping method
-- Execute web scraper from CLI
 
 ## Today's Outline
 
