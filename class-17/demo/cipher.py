@@ -1,4 +1,5 @@
 # IWT FJXRZ QGDLC UDM YJBETS DKTG IWT APOXAN HATTEXCV SDV
+
 # The quick brown fox jumped over the lazy sleeping dog
 # shift 11
 
@@ -39,9 +40,10 @@ if __name__=="__main__":
 
     check_word = 'pieeeee'
     check_word2 = 'cat'
+    # max
     # pda (3)
     # rfc (5)
-
+    # the (7) 
     import nltk
 
     nltk.download('words', quiet=True)
