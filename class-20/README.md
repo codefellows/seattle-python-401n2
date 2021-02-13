@@ -9,6 +9,9 @@
   - Make sure it's covered in tests
   - You can build a web site but must get approval for any UI beyond CLI
 - Tell a great story!
+- Testing testing testing
+  - Expect tests to be run during presentations
+  - 80% Minimum Coverage (exclude .venv)
 
 Tools At Your Disposal
 
