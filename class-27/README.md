@@ -17,4 +17,3 @@ Django provides a powerful way to reason about an application's resources whethe
 - Django project with data persistence
 - Create inter-related models
 - Use Django's Generic views to handle displaying Models
-
