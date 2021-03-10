@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "snacks-x"
+version = "0.1.0"
+description = ""
+authors = ["JB-Tellez <jb.tellez@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^3.1.7"
+django-allauth = "^0.44.0"
+django-crispy-forms = "^1.11.1"
+django-debug-toolbar = "^3.2"
+whitenoise = "^5.2.0"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+flake8 = "^3.8.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
