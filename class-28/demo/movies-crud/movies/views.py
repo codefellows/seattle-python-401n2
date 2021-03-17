@@ -6,7 +6,6 @@ class MovieListView(ListView):
     template_name = 'movie-list.html'
     model = Movie
 
-
 class MovieDetailView(DetailView):
     template_name = 'movie-detail.html'
     model = Movie

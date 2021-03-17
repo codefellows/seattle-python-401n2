@@ -3,7 +3,7 @@ from linked_list import LinkedList
 class Hashtable:
 
     def __init__(self, size=1024):
-        self.size = size
+        self._size = size
         self._buckets = size * [None]
 
     def _hash(self, key):
