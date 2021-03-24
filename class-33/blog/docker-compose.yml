@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    command: gunicorn blog_api.wsgi:application --bind 0.0.0.0:8000 --workers 4
+    volumes:
+      - .:/code
+    ports:
+      - '8000:8000'
+  
+  postgres:
+    image: postgres:11
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
