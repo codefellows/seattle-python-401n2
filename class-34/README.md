@@ -23,3 +23,7 @@ How about... we need a host capable of serving our Docker container and let cont
 - Host API online
 - Remotely access container
 - Handle CORS issues
+
+##### Command
+
+- ssh -i YourFileName.pem ec2-user@YourPublicDNS.us-west-2.compute.amazonaws.com
