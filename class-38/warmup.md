@@ -1,8 +1,9 @@
 # Just the Algo
 
-```text
-Given an array of linked-lists with values of integers, create a function to taverse the list and convert the list to a number, add the 3 lists together and return the total value of all 3 lists.
 
+- Given an array of linked-lists with values of integers, create a function to taverse the list and convert the list to a number, add the 3 lists together and return the total value of all 3 lists.
+
+```text
 The lists will be passed as parameters.
 
 ll1: [5]->[9]->[9] = 599
